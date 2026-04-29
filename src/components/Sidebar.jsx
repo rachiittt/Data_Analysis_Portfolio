@@ -38,7 +38,7 @@ export default function Sidebar() {
           LinkedIn
         </a>
         <a
-          href="https://drive.google.com/file/d/1xR3K_Lw_TJhP9k6rfLMMavs9BrYHNhcQ/view?usp=drive_link"
+          href="https://drive.google.com/file/d/1yxuayYNYO4veK-fj9eVccozJ1rr07-eQ/view?usp=sharing"
           target="_blank"
           rel="noreferrer"
           className="sidebar-social-btn"
