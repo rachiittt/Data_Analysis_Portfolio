@@ -1,6 +1,6 @@
 # Rachit Singh
 
-**Email:** [Your Email]  |  **GitHub:** [github.com/rachiittt](https://github.com/rachiittt)  |  **LinkedIn:** https://www.linkedin.com/in/rachit-singh-417221329/
+**Email:** rachit.professional.20@gmail.com |  **GitHub:** [github.com/rachiittt](https://github.com/rachiittt)  |  **LinkedIn:** https://www.linkedin.com/in/rachit-singh-417221329/
 
 ---
 
